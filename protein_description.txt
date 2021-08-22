@@ -1,0 +1,15 @@
+ end-to-end implementation for students
+# Type: Linear Regression
+# data: Protein
+
+# This is a data set of Physicochemical Properties of Protein Tertiary Structure. 
+# RMSD-Size of the residue. 
+# F1 - Total surface area. 
+# F2 - Non polar exposed area. 
+# F3 - Fractional area of exposed non polar residue. 
+# F4 - Fractional area of exposed non polar part of residue. 
+# F5 - Molecular mass weighted exposed area. 
+# F6 - Average deviation from standard exposed area of residue. 
+# F7 - Euclidian distance. 
+# F8 - Secondary structure penalty. 
+# F9 - Spacial Distribution constraints (N,K Value).
